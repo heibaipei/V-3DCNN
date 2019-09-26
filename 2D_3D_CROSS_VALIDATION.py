@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-#-*- coding: utf-8 -*-
-#@file: para_cnn_rnn.py
-#@author: yyl
-#@time: 2017/12/23 13:27
-# If this runs wrong, don't ask me, I don't know why. 
-# If this runs right, thank god, and I don't know why.
+
 import sys
 import sklearn
 from sklearn.metrics import precision_score

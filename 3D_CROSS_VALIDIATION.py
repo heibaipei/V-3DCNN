@@ -1,7 +1,4 @@
-#! /usr/bin/python3
-###########################################################################
-# implement 3D cnn for EEG decode
-###########################################################################
+
 from cnn_class import cnn
 import sklearn
 from sklearn.metrics import precision_score
